@@ -27,5 +27,4 @@ Packages required:
       
       5)Pandas
 
-To Visualize you need to sign up at
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjjjfqL48DbAhXMLI8KHYCeDTMQFggmMAA&url=https%3A%2F%2Fplot.ly%2Faccounts%2Flogin%2F%3Faction%3Dsignup&usg=AOvVaw35vkmiKX3sTqZNwgGoW-Np
+### To Visualize SignIn at https://plot.ly/Auth/login/#/
